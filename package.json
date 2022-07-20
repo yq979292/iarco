@@ -1,0 +1,28 @@
+{
+  "name": "iarco-ui",
+  "version": "1.0.0",
+  "description": "基于vue2.x的一淘pc段通用组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yq979292/iarco.git"
+  },
+  "keywords": [
+    "ui",
+    "desigin",
+    "iarco",
+    "arco",
+    "iarco-ui",
+    "iarco-desgin",
+    "component"
+  ],
+  "author": "iarco-team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yq979292/iarco/issues"
+  },
+  "homepage": "https://github.com/yq979292/iarco#readme"
+}
